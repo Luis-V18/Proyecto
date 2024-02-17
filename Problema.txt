@@ -1,0 +1,4 @@
+Problema
+La empresa de seguros necesita hacer cotizaciones diarias
+pero se estan haciendo a mano entonces la forma de realizar esas 
+cotizaciones se demoran demasiado
